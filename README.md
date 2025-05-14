@@ -1,7 +1,6 @@
 # bolsa-IA
 Inversion en bolsas de valores con inteligencia artificial 
 html
-CopiarEditar
 <!DOCTYPE html>
 <html lang="es">
 <head>
