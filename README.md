@@ -1,6 +1,3 @@
-# bolsa-IA
-Inversion en bolsas de valores con inteligencia artificial 
-html
 <!DOCTYPE html>
 <html lang="es">
 <head>
